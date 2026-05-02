@@ -1,8 +1,6 @@
 # windows-troubleshooting-portfolio
 This repository contains a collection of real-world windows troubleshooting 
 
-# Windows Troubleshooting Portfolio
-
 # Overview #
 This repository contains a collection of real-world Windows troubleshooting scenarios commonly encountered in IT Technical Support roles. 
 Each case demonstrates a structured approach to diagnosing and resolving system, network, and user-related issues.
