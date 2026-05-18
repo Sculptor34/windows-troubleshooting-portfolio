@@ -13,10 +13,11 @@ User unable to log in due to forgotten password.
 
 # Solution
 Steps:
-1. Boot into recovery mode
-2. Access Command Prompt
-3. Replace utilman.exe with cmd.exe
-4. Reset password using command line
+1. Insert Windows 7 installation media (USB/CD/DVD)
+2. Boot into recovery mode
+3. Access Command Prompt
+4. Replace utilman.exe with cmd.exe
+5. Reset password using command line
 
 # Commands Used
 net user username newpassword
