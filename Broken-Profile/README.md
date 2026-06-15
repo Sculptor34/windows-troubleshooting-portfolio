@@ -16,8 +16,8 @@ Steps performed:
 2. Restart the PC
 
 # Commands Used
-DISM.exe /Online /Cleanup /Restorehealth
-sfc /scannow
+1. DISM.exe /Online /Cleanup /Restorehealth
+2. sfc /scannow
 
 # Result
 The File able to open as normal
