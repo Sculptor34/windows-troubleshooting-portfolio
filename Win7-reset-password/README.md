@@ -25,5 +25,4 @@ net user username newpassword
 # Result
 User successfully regained access to system.
 
-# Notes
-This method should only be used for authorized system recovery.
+
