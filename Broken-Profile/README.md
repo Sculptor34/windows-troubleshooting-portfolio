@@ -21,6 +21,3 @@ Steps performed:
 
 # Result
 The File able to open as normal
-
-# Notes
-This setup was performed for meeting room operational purposes.
