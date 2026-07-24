@@ -20,6 +20,3 @@ N/A
 
 # Result
 The PC able to boot up as normal startup
-
-# Notes
-This setup was performed for meeting room operational purposes.
