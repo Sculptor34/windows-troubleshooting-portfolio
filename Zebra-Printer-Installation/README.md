@@ -21,6 +21,3 @@ N/A
 
 # Result
 Zebra Printer able to print the label sticker
-
-# Notes
-This method should only be used for authorized system recovery.
