@@ -19,6 +19,3 @@ N/A
 
 # Result
 The PC able to ping server and gateway 
-
-# Notes
-This setup was performed for meeting room operational purposes.
