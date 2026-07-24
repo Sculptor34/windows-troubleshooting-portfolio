@@ -21,6 +21,3 @@ N/A
 
 # Result
 The mapdrive able to access
-
-# Notes
-This setup was performed for meeting room operational purposes.
