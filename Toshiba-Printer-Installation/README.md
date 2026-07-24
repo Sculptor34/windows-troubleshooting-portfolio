@@ -23,6 +23,3 @@ N/A
 
 # Result
 Toshiba Printer able to print the label sticker
-
-# Notes
-This setup was performed for meeting room operational purposes.
